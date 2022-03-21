@@ -1,0 +1,7 @@
+  0            NONE   0   0   0   0
+  2     Visual 120  18 134   0
+  1     Default  205  62  78   0
+  5     Ventral   196  58 250   0
+  3     Sensorimotor 70 130 180   0
+  4     HL-Vision 0 118  14   0
+  

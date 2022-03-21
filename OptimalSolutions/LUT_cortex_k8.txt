@@ -1,0 +1,11 @@
+  0            NONE   0   0   0   0
+  8     Visual1 120  18 134   0
+  4     Default  205  62  78   0
+  5     Ventral   196  58 250   0
+  1     Sensorimotor 70 130 180   0
+  2     HL-Vision 0 118  14   0
+  6     Visual2 161 230 116  0 
+  7     Temporal 227 152 72 0 
+  3     Temporoparietal 254 253 149 0
+
+

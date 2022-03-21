@@ -1,0 +1,6 @@
+  0            NONE   0   0   0   0
+  1     Occipital 120  18 134   0
+  2     Default  205  62  78   0
+  4     Ventral   196  58 250   0
+  3     Sensorimotor 70 130 180   0
+  5     HL-Vision 0 118  14   0
